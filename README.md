@@ -1,2 +1,2 @@
 # SimpleCalculator
-It performs basic opertions such as addition,subtraction,multiplication,division between any two numbers.
+It performs basic operations such as addition,subtraction,multiplication,division between any two numbers.
