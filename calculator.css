@@ -1,0 +1,20 @@
+body{
+background-color:#ADD8E6;
+}
+.cont{
+margin-top:50px;
+padding:50px;
+height:295px;
+width:400px;
+background-color:#808080;
+color:white;
+font-size:25px;
+font-family:monospace;
+border:10px solid #808080;
+border-radius:40px;
+}
+h1{
+font-size:30px;
+text-align:center;
+margin-top:40px;
+}
